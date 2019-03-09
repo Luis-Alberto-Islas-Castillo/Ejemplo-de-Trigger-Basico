@@ -15,6 +15,7 @@ INSERT INTO Libros (id,title,author,sales,publication_date) VALUES
 ('3','El señor de los Anillos','J. R. R. Tolkien','150','1954'),
 ('4','El Principito','Antonio de Saint-Exupery','150','1943'),
 ('5','El hobbit','J. R. R. Toljien','100','1937'),
+('6','Sueño en el Pabellon Rojo','Cao Xueqin','100','1759'),
 ('7','Triple representatividad','Jiang Zemin','100','2001'),
 ('8','Diez negritos','Agatha Cristie','100','1930'),
 ('9',NULL,NULL,NULL,NULL),
